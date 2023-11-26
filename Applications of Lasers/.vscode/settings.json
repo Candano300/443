@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "makefile": "cpp",
+        "calculations.C": "cpp"
+    }
+}
